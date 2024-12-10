@@ -70,10 +70,10 @@ chismepress/
 
 ## Uso
 Convertir un solo archivo Markdown en HTML:
-**python main.py ./docs/contacto.md ./output ./templates/default.html**
+**python main.py ./docs/contacto.md ./output**
 
 Convertir todos los archivos Markdown en un directorio:
-**python main.py ./docs ./output ./templates/default.html**
+**python main.py ./docs ./output***
 
 ## Argumento
 markdown_dir: Ruta al archivo o directorio con los archivos Markdown.
